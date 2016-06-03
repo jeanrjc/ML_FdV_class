@@ -1,7 +1,5 @@
-# ML_FdV_class
+# Machine learning class
 
-Notebook of day 2.
+Can be comfortably accessed here: [Notebook](http://nbviewer.jupyter.org/github/jeanrjc/ML_FdV_class/tree/master/)
 
-Can be access here: [Notebook](http://nbviewer.jupyter.org/github/jeanrjc/ML_FdV_class/tree/master/)
-
-It is more about how to do some ML technics in python rather than full pipeline to analyse data2.txt.
+Note that it is more about how to do some ML technics in python rather than full pipeline to analyse data2.txt. Feel free to add correction or precision.
